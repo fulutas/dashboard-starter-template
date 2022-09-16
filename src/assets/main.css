@@ -6,6 +6,12 @@ html{
   scroll-behavior: smooth;
 }
 
+.col-12{
+  flex: 0 0 auto;
+  padding: 0.5rem;
+  width: 100%;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
